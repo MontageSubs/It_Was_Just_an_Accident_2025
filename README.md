@@ -1,12 +1,8 @@
-# 示例 宇宙自助洗衣店 Cosmos Laundromat 2015 [◂电影双语标题+年份]
+# 普通事故 / It Was Just an Accident (2025)
 
-示例 在一个荒凉的小岛，自杀羊弗兰克满足他的命运在一个古怪的推销员，谁提供他一生的礼物。他一点也不知道，他只能处理这么多的“寿命”。
+只是一场意外，却又超乎意外。驾车撞死一条狗，男子与妻女来到陌生车房。凭其义肢走动时的声响，车房工认出司机或是当年施酷刑的狱吏。仇人送上门，雪恨更待何时。然而，狱中受折磨时双眼被蒙，嫌疑犯是行刑者确实无误？从早到晚奔波一轮，找来几个狱友确认俘虏身份，痛苦回忆涌上心头。在无垠沙漠等待把他活埋私了，有若在人性荒原等待果陀，替天行道又是否问心无愧？以悬疑惊栗布局，暗黑写实的人物故事来自巴纳希狱中亲见亲闻，将苛政、滥权、以暴易暴一一置于道德伦理的天秤上，丈量人性轻重；悲愤中不失幽默，连消带打贪污贿赂之风。一面金棕榈奖，绝非意外。
 
-[▲ 对这部电影的中文介绍，可以来自中文维基百科和TMDB，或者在许可协议不冲突的情况下来自其他来源，比如豆瓣，也可以自行从英语进行翻译]
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/500px-CosmosLaundromatPoster.jpg" alt="电影海报" width="200" />
-
-[▲ 此处提供电影海报的合理使用版本以供解释之用]
+<img src="https://image.tmdb.org/t/p/original/eXzJ8285IN9ttka6VWH4oekxpWw.jpg" alt="普通事故 / It Was Just an Accident (2025) 电影海报" width="200" />
 
 <table>
   <tr>
@@ -15,13 +11,11 @@
     <th>TMDB</th>
   </tr>
   <tr>
-    <!-- 豆瓣 --><td><a href="https://example.com"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
-    <!-- IMDb --><td><a href="https://example.com"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
-    <!-- TMDB --><td><a href="https://example.com"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
+    <!-- 豆瓣 --><td><a href="https://movie.douban.com/subject/37247238/"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
+    <!-- IMDb --><td><a href="https://www.imdb.com/title/tt36491653/"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
+    <!-- TMDB --><td><a href="https://www.themoviedb.org/movie/1456349"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
   </tr>
 </table>
-
-[▲ 此处提供电影的各个数据库链接]
 
 
 
