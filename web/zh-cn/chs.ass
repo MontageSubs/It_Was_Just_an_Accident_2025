@@ -22,15 +22,15 @@ Style: Note,Microsoft YaHei,71.9,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.34,0:00:08.61,Screen,,0,0,0,,{\an2\1c00BBBBBB\fs60\pos(960,790)\b1}美国霓虹影业
-Dialogue: 0,0:00:13.36,0:00:18.29,Screen,,0,0,0,,{\fad(1500,0)\an2\1c00BBBBBB\fs60\pos(960,670)\b1}卡塔尔舞台影业
-Dialogue: 0,0:00:25.53,0:00:28.91,Screen,,0,0,0,,{\an2\1c00BBBBBB\fs60\pos(960,740)\b1}法国MK2影业
+Dialogue: 0,0:00:13.36,0:00:18.29,Screen,,0,0,0,,{\fad(1500,0)\an2\1c00BBBBBB\fs60\pos(960,680)\b1}卡塔尔舞台影业
+Dialogue: 0,0:00:25.28,0:00:28.91,Screen,,0,0,0,,{\fad(100,0)\\an2\1c00BBBBBB\fs60\pos(960,740)\b1}法国MK2影业
 Dialogue: 0,0:00:29.73,0:00:36.39,Screen,,0,0,0,,{\fad(4000,0)\an2\1c00BBBBBB\fs60\pos(960,670)\b1}法国影忆发行公司
 Dialogue: 0,0:00:39.92,0:00:43.46,Screen,,0,0,0,,{\fad(700,0)\an2\1c00BBBBBB\fs60\pos(960,650)\b1}法国佩利亚斯影业
 Dialogue: 0,0:00:46.45,0:00:50.30,Screen,,0,0,0,,{\fad(3000,0)\an2\1c00BBBBBB\fs60\pos(960,820)\b1}卢森堡啾啾制作公司
 Dialogue: 0,0:00:50.33,0:00:53.41,Screen,,0,0,0,,{\an2\1c00BBBBBB\fs60\pos(960,800)\b1}法国世界电影资助计划
-Dialogue: 0,0:00:58.72,0:01:01.43,Screen,,0,0,0,,{\fad(1500,0)\an2\1c00BBBBBB\fs60\pos(960,820)\b1}德法公共电视台·法国电影公司
-Dialogue: 0,0:01:07.60,0:01:11.44,Screen,,0,0,0,,{\fad(700,0)\pos(1077,662)\an2\1c00BBBBBB\fs60\b1}卢森堡电影基金
-Dialogue: 0,0:01:12.55,0:01:17.42,Screen,,0,0,0,,{\an2\1c00BBBBBB\fad(600,600)\fs60\pos(960,820)\b1}2025年戛纳电影节\N金棕榈奖
+Dialogue: 0,0:00:58.23,0:01:01.43,Screen,,0,0,0,,{\fad(2000,0)\an2\1c00BBBBBB\fs60\pos(960,650)\b1}德法公共电视台·法国电影公司
+Dialogue: 0,0:01:07.60,0:01:11.44,Screen,,0,0,0,,{\fad(1000,0)\pos(1077,662)\an2\1c00BBBBBB\fs60\b1}卢森堡电影基金
+Dialogue: 0,0:01:12.55,0:01:17.42,Screen,,0,0,0,,{\an2\1c00BBBBBB\fad(650,600)\fs60\pos(960,820)\b1}2025年戛纳电影节\N金棕榈奖
 Dialogue: 0,0:01:18.04,0:01:21.02,Screen,,0,0,0,,{\an2\1c00BBBBBB\fad(600,600)\fs40\pos(960,580)\b1}字幕译制\N{\fs60}蒙太奇字幕组
 Dialogue: 0,0:01:57.52,0:01:58.52,Default,,0,0,0,,哦
 Dialogue: 0,0:02:03.82,0:02:07.11,Default,,0,0,0,,这次胎动可真是碰碰车级别的啊
