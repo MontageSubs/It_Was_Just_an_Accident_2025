@@ -51,34 +51,12 @@
     <th>OpenSubtitles</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
-    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/226057.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/pQN9ck"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://2.assrt.net/xml/sub/668/668624.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13555340/it-was-just-an-accident-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
   </tr>
 </table>
-
-[▲ 仅当字幕制作完成且发布后显示此节，对于隐藏请使用 html 语法 ``<!--需要隐藏的内容-->``]
-
-<h2 id="字幕进度">⏳ 字幕进度</h2>
-
-- [X] 时间轴
-- [X] 翻译
-- [X] 校对
-- [ ] 特效（99%）
-- [ ] 发布（10%）
-
-[▲ 当字幕制作流程取得进展后请更新此节]
-
-<details>
-<summary id="待办事项">📝 待办事项</summary>
-
-- [x] 翻译第00:03:01-00:04:00（100%）
-- [ ] 特效00:04:00（50%）
-- [ ] 调整GitHub Readme（0%）
-
-[▲ 此处可以作为上一节的详细补充，一个向外界披露的待办事项列表]
-</details>
 
 
 <!--
